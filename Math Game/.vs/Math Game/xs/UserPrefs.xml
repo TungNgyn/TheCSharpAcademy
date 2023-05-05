@@ -6,17 +6,11 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Math Game/Program.cs">
     <Files>
-      <File FileName="Math Game/Program.cs" Line="52" Column="1" />
+      <File FileName="Math Game/Program.cs" Line="12" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Math Game" expanded="True">
-            <Node name="Math Game" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

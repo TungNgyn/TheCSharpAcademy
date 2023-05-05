@@ -1,0 +1,5 @@
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/CalculatorProgram.csproj.AssemblyReference.cache
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/CalculatorProgram.AssemblyInfoInputs.cache
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/CalculatorProgram.AssemblyInfo.cs
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/CalculatorProgram.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/tung/repos/TheCSharpAcademy/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CopyComplete
